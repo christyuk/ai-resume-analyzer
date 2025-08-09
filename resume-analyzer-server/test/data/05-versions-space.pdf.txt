@@ -1,0 +1,63 @@
+
+
+CHRISTY
+.
+UK
+CONTACT INFO
+:
+Email:christyzenzone78@gmail.com
+LinkedIn: www.linkedin.com/in/christy-uk-b493b4348
+Phone no: +91 7411610244||City: Bangalore||State: Karnataka
+Address: site 29, Grace villa, MTB Water plant, Ramaka layout, Maheshwari Nagar, Mahadevapura,
+Bangalore-48
+Professional Summary:
+*Excellent Hands-on experience in Splunk Good at performing searching logs.
+*Trained Soc analyst Security internal from SIEM XPERT 8-month internship of world
+Sec of Technologies.
+* Protecting organizations from emerging threats, monitor, detect and respond to
+threats.
+*Skilled in Email Analysis, Log investigation, Incident response, troubleshooting if any
+device is not reporting to Splunk
+*Monitoring 24x7 SOC resulting in reduction security incidents. Resulting x number of
+issues per week.
+*Siem dashboards, Reporting, Raising Positive incidents to respective teams, Creating
+Tickets follow up until closer, Checking True positive or false positive.
+*Act as first level support for all security issues and problem solver. Investigate
+malicious Phishing emails IP addresses, switches, routers, Gateway, vulnerability
+management, malware, Fortinet firewall, antivirus, DB, Brute force attack, mummy
+spider threat, Login attempt IPS/IDS, Proxy, Scan Analysis, TCP/IP Protocols, IBM
+QRadar, DNS, FortiClient VPN and Splunk enterprise, Correlation search Remediating
+the threats
+Skills
+•Splunk, ArcSight SIEM, Microsoft sentinel, Networking
+• EDR, CrowdStrike, Microsoft windows, Cisco IOS(Router/Switch), SPL, Dashboard
+• Python, Frontend, backend, Java, Cortex XSOAR
+• MYSQL, MS Office, Windows, Linux
+• C, C++, HTML, OOP, AI, Programming, DBMS, Web applications, Nessus
+Work Experience
+SOC Analyst-Siem Xpert, Bangalore, Karnataka- 08/2024-02/2025
+Did internship and earned soc analyst specialist certificate.
+Checked logs, EDR Dashboards
+Data Manager-02/2025-03/2025
+Entered data with email process by separating details
+•entered in dashboards 1000 data in 8 days when time limit was 12 days
+*Previous did Ticket Reservation Final year Project (pages with Full details is present)
+
+Education
+Bachelor of computer applications (BCA)–Bangalore University, Bangalore, Karnataka
+Database, Computer Networks, Cybersecurity Basics, HTML, SQL, problem solver
+Kairaeli Niketan (PCMC)-Bangalore, Karnataka /St. Anne’s English medium school
+Certifications
+*Certified SOC Expert -SIEM XPERT -02/2025
+*IBM Cyber security Skills Build: Offense, Defense, Cybersecurity fundamentals,
+Artificial Intelligence Fundamentals, Introduction Cyber security-19/2025
+*ARCX-Cyber threat intelligence 101-24/2025
+*Microsoft Badges-monitoring tools in Azure deploying, governance, compliance, DB,
+relational DB, fundamentals, roles and services, core data, Leverage AI tools, cost
+management Azure, Cloud services and benefits, Cloud computing, FinOps, Microsoft
+AI strategy to create business, Scale AI, responsible AI principles, business value
+AI-3/2025
+*Skill Shop-Google Analytics, AI-Powered Performance Ads-18/2025
+*Qualys- web scan, vulnerability, scanning, reporting Qualys query, PCI Compliance,
+patch, File integrity, Cyber Security, Custom, Cloud, API-12/2024
+Languages: English, Hindi, Kannada, Tamil, Malayalam

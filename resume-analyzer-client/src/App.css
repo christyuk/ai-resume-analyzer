@@ -1,0 +1,94 @@
+/* --- Loading / messages / layout polish --- */
+
+.primary {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 12px;
+}
+.primary[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.secondary {
+  background: #111827;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.error {
+  color: #b91c1c;
+  background: #fee2e2;
+  border: 1px solid #fecaca;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 12px;
+}
+
+.notice {
+  color: #065f46;
+  background: #d1fae5;
+  border: 1px solid #a7f3d0;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 12px;
+}
+
+.result-box {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  padding: 16px;
+  margin-top: 16px;
+  border-radius: 8px;
+}
+
+.score-card {
+  margin-top: 12px;
+  padding: 12px;
+  background: #ecfeff;
+  border: 1px solid #a5f3fc;
+  border-radius: 8px;
+}
+
+.lists {
+  margin-top: 16px;
+}
+.lists.warn ul li {
+  color: #b45309;
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-top: 14px;
+}
+.actions .email {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.actions .email input {
+  padding: 8px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  width: 260px;
+}
+
+
+
+
+
+
+
+
+
